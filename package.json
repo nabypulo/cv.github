@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "->Projet-Bootstrap<-",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Nabypulo/tache3-bootstrap.git"
+  },
+  "author": "ba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Nabypulo/tache3-bootstrap/issues"
+  },
+  "homepage": "https://gitlab.com/Nabypulo/tache3-bootstrap#readme"
+}
